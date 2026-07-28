@@ -17,7 +17,6 @@
 - 💻 Full Stack Developer (MERN Stack)  
 - 🐍 Python Developer  
 - 📊 Learning Data Analytics & Power BI  
-- 🧠 Solved 40+ problems on LeetCode  
 
 ---
 
