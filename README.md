@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Full Stack Developer (MERN) | Python Developer <br>
-  🚀 Building Real-World Projects | AI Enthusiast
+  🚀 Building Real-World Projects
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 - 🎓 B.Tech CSE Student (Geeta University, 2027)  
 - 💻 Full Stack Developer (MERN Stack)  
-- 🐍 Python Developer & AI Enthusiast  
+- 🐍 Python Developer  
 - 📊 Learning Data Analytics & Power BI  
 - 🧠 Solved 40+ problems on LeetCode  
 
